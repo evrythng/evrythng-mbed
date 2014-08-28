@@ -51,10 +51,9 @@ else {
 If you already have an mbed, simply log in on mbed.org.
 
 - Launch the mbed compiler.
-- Import the example application found at evrythng-api-example 
+- Import the example application found at evrythng-api-example (or import it directly from the mbed project at https://mbed.org/users/vladounet/code/EvrythngApiExample/) 
  - Import As: Program
  - Target name: EvrythngApiExample (or whatever you like)
-
 
 - Paste your EVRYTHNG API Key in main.cpp (in the constant API_KEY).
 - Create an active digital identity (a thng in our jargon) for your mbed (either using the API or the developer portal).
