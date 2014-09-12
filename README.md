@@ -62,4 +62,4 @@ If you already have an mbed, simply log in on mbed.org.
 
 Once the program is started, it will read and write properties at given intervals into the ADI (use the API to access them).
 
-For additional information about the API please check our documentation at [API Documentation](https://dev.evrythng.com/documentation/api)
+For additional information about the API please check our [API Documentation](https://dev.evrythng.com/documentation/api)
